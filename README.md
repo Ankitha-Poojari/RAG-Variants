@@ -1,5 +1,5 @@
 
-# Retrieval-Augmented Generation (RAG) Techniques
+# Retrieval-Augmented Generation (RAG)
 
 
 ---
